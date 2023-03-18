@@ -5,7 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
-# Hello GitHub Actions :smile:
+# Hello GitHub Actions :smile: :smile: :smile: :smile: :smile:
 
 _Create a GitHub Action and use it in a workflow._
 
